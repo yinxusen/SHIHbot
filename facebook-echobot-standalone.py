@@ -8,7 +8,7 @@ from flask import Flask, request
 
 application = Flask(__name__)
 app = application
-PAT = 'replace_your_own_PAT_here'
+PAT = 'EAAUZBtwhHZCZB0BAJIuUQcidApzgx9HYnCBIOqf7k1UY30RC1ij4IAJDasbuG5moSQpwo2A6FXf12X7HOoZC4MeZBTO78jSso83cJpX3qaVXJKxuQUu7PzB1jsOjhR1ZBLL3y05AvwZARZAotZBOB2RZBJ6sGlDIZBRL0PkrJKR0AMEzQZDZD'
 VERIFICATION_TOKEN = 'your_own_token'
 
 @app.route('/', methods=['GET'])
