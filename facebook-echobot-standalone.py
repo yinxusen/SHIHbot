@@ -9,7 +9,7 @@ from flask import Flask, request
 application = Flask(__name__)
 app = application
 PAT = 'replace_your_own_PAT_here'
-VERIFICATION_TOKEN = 'replace_your_own_token'
+VERIFICATION_TOKEN = 'your_own_token'
 
 @app.route('/', methods=['GET'])
 def handle_verification():
@@ -30,7 +30,7 @@ def handle_messages():
         # Start processing valid requests
         try:
             response = processIncoming(sender_id, message)
-            
+
             if response is not None:
                 send_message(PAT, sender_id, response)
 
@@ -75,10 +75,10 @@ def send_message(token, user_id, text):
 # Generate tuples of (sender_id, message_text) from the provided payload.
 # This part technically clean up received data to pass only meaningful data to processIncoming() function
 def messaging_events(payload):
-    
+
     data = json.loads(payload)
     messaging_events = data["entry"][0]["messaging"]
-    
+
     for event in messaging_events:
         sender_id = event["sender"]["id"]
 
@@ -94,7 +94,7 @@ def messaging_events(payload):
         # Message with attachment (location, audio, photo, file, etc)
         elif "attachments" in event["message"]:
 
-            # Location 
+            # Location
             if "location" == event['message']['attachments'][0]["type"]:
                 coordinates = event['message']['attachments'][
                     0]['payload']['coordinates']
@@ -108,15 +108,15 @@ def messaging_events(payload):
                 audio_url = event['message'][
                     'attachments'][0]['payload']['url']
                 yield sender_id, {'type':'audio','data': audio_url, 'message_id': event['message']['mid']}
-            
+
             else:
                 yield sender_id, {'type':'text','data':"I don't understand this", 'message_id': event['message']['mid']}
-        
+
         # Quick reply message type
         elif "quick_reply" in event["message"]:
             data = event["message"]["quick_reply"]["payload"]
             yield sender_id, {'type':'quick_reply','data': data, 'message_id': event['message']['mid']}
-        
+
         else:
             yield sender_id, {'type':'text','data':"I don't understand this", 'message_id': event['message']['mid']}
 
