@@ -44,7 +44,15 @@ def handle_messages():
 def processIncoming(user_id, message):
     if message['type'] == 'text':
         message_text = message['data']
-        return message_text
+        data = {
+            "q": message_text,
+            "from": user_id
+        }
+        r = requests.post("http://127.0.0.1:10000/SHIHbot/", data=data)
+        if r.status_code != requests.codes.ok:
+            return 'For your question: {}, I\'ll come back in a moment'.format(message_text)
+        print r.text
+        return r.text
 
     elif message['type'] == 'location':
         response = "I've received location (%s,%s) (y)"%(message['data'][0],message['data'][1])
