@@ -5,6 +5,7 @@ Standalone version
 
 import sys, json, traceback, requests
 from flask import Flask, request
+import textwrap
 
 application = Flask(__name__)
 app = application
@@ -48,10 +49,13 @@ def processIncoming(user_id, message):
             "q": message_text,
             "from": user_id
         }
-        r = requests.post("http://127.0.0.1:10000/SHIHbot/", data=data)
+        npc_editor_addr = "https://shihbotatusc:10000/SHIHbot/"
+        r = requests.post(npc_editor_addr, data=data)
         if r.status_code != requests.codes.ok:
             return 'For your question: {}, I\'ll come back in a moment'.format(message_text)
         print r.text
+        if r.text == '':
+            return 'For your question: {}, I\'ll come back in a moment'.format(message_text)
         return r.text
 
     elif message['type'] == 'location':
@@ -70,15 +74,17 @@ def processIncoming(user_id, message):
 def send_message(token, user_id, text):
     """Send the message text to recipient with id recipient.
     """
-    r = requests.post("https://graph.facebook.com/v2.6/me/messages",
-                      params={"access_token": token},
-                      data=json.dumps({
-                          "recipient": {"id": user_id},
-                          "message": {"text": text.decode('unicode_escape')}
-                      }),
-                      headers={'Content-type': 'application/json'})
-    if r.status_code != requests.codes.ok:
-        print r.text
+    new_sentences = textwrap.fill(text, 300).split('\n')
+    for s in new_sentences:
+        r = requests.post("https://graph.facebook.com/v2.6/me/messages",
+                          params={"access_token": token},
+                          data=json.dumps({
+                              "recipient": {"id": user_id},
+                              "message": {"text": s}
+                          }),
+                          headers={'Content-type': 'application/json'})
+        if r.status_code != requests.codes.ok:
+            print r.text
 
 # Generate tuples of (sender_id, message_text) from the provided payload.
 # This part technically clean up received data to pass only meaningful data to processIncoming() function
