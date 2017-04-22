@@ -6,11 +6,18 @@ Standalone version
 import sys, json, traceback, requests
 from flask import Flask, request
 import textwrap
+import time
+import random
 
 application = Flask(__name__)
 app = application
 PAT = 'EAAUZBtwhHZCZB0BAJIuUQcidApzgx9HYnCBIOqf7k1UY30RC1ij4IAJDasbuG5moSQpwo2A6FXf12X7HOoZC4MeZBTO78jSso83cJpX3qaVXJKxuQUu7PzB1jsOjhR1ZBLL3y05AvwZARZAotZBOB2RZBJ6sGlDIZBRL0PkrJKR0AMEzQZDZD'
 VERIFICATION_TOKEN = 'your_own_token'
+# read conf
+npc_server = 'http://127.0.0.1:10000/SHIHbot/'
+with open('code.conf', 'r') as c:
+    npc_server = c.readline()
+print('npc server is {}'.format(npc_server))
 
 @app.route('/', methods=['GET'])
 def handle_verification():
@@ -49,14 +56,16 @@ def processIncoming(user_id, message):
             "q": message_text,
             "from": user_id
         }
-        npc_editor_addr = "https://shihbotatusc:10000/SHIHbot/"
-        r = requests.post(npc_editor_addr, data=data)
-        if r.status_code != requests.codes.ok:
-            return 'For your question: {}, I\'ll come back in a moment'.format(message_text)
-        print r.text
-        if r.text == '':
-            return 'For your question: {}, I\'ll come back in a moment'.format(message_text)
-        return r.text
+        try:
+            r = requests.post(npc_server, data=data)
+            if r.status_code != requests.codes.ok:
+                return 'I\'m away from keyboard, will come back in a moment'
+            print r.text
+            if r.text == '':
+                return 'I don\'t understand your question: {}, try a different one?'.format(message_text)
+            return r.text
+        except:
+            return 'I\'m away from keyboard, will come back in a moment, your message {}'.format(message_text)
 
     elif message['type'] == 'location':
         response = "I've received location (%s,%s) (y)"%(message['data'][0],message['data'][1])
@@ -76,6 +85,7 @@ def send_message(token, user_id, text):
     """
     new_sentences = textwrap.fill(text, 300).split('\n')
     for s in new_sentences:
+        time.sleep(random.randint(1, 10))
         r = requests.post("https://graph.facebook.com/v2.6/me/messages",
                           params={"access_token": token},
                           data=json.dumps({
