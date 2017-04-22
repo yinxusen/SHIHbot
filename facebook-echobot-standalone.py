@@ -58,14 +58,15 @@ def processIncoming(user_id, message):
         }
         try:
             r = requests.post(npc_server, data=data)
-            if r.status_code != requests.codes.ok:
-                return 'I\'m away from keyboard, will come back in a moment'
-            print r.text
-            if r.text == '':
-                return 'I don\'t understand your question: {}, try a different one?'.format(message_text)
-            return r.text
-        except:
+        except ConnectionError:
             return 'I\'m away from keyboard, will come back in a moment, your message {}'.format(message_text)
+
+        if r.status_code != requests.codes.ok:
+            return 'I\'m away from keyboard, will come back in a moment'
+        print r.text
+        if r.text == '':
+            return 'I don\'t understand your question: {}, try a different one?'.format(message_text)
+        return r.text
 
     elif message['type'] == 'location':
         response = "I've received location (%s,%s) (y)"%(message['data'][0],message['data'][1])
