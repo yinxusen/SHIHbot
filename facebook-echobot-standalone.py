@@ -85,7 +85,7 @@ def send_message(token, user_id, text):
     """
     new_sentences = textwrap.fill(text, 300).split('\n')
     for s in new_sentences:
-        time.sleep(random.randint(1, 10))
+        time.sleep(random.randint(0, 4))
         r = requests.post("https://graph.facebook.com/v2.6/me/messages",
                           params={"access_token": token},
                           data=json.dumps({
