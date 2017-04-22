@@ -63,7 +63,6 @@ def processIncoming(user_id, message):
 
         if r.status_code != requests.codes.ok:
             return 'I\'m away from keyboard, will come back in a moment'
-        print r.text
         if r.text == '':
             return 'I don\'t understand your question: {}, try a different one?'.format(message_text)
         return r.text
