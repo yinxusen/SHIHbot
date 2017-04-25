@@ -1,3 +1,9 @@
+# Adapted log
+
+The code is adapted for SHIHbot.
+
+1. code.conf is the conf file for the URL of the NPCEditor.
+
 # A Simple Facebook Messenger Bot
 
 [Full tutorial in this link](https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tutorial-from-zero-to-hero-ku-352dca274046#.xsmzoa38z)
