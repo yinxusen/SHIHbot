@@ -2,7 +2,9 @@
 
 The code is adapted for SHIHbot.
 
-1. code.conf is the conf file for the URL of the NPCEditor.
+1. code.conf is the conf file for the URL of the NPCEditor. Substitute the URL with your own one.
+
+2. For stability, download a new ngrok binary file from its [home page](https://ngrok.com) according to your OS.
 
 # A Simple Facebook Messenger Bot
 
