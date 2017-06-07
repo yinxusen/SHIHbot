@@ -1,0 +1,300 @@
+question 0: What is HIV? What is AIDS?
+answer 0: AIDS stands for acquired immunodeficiency syndrome. AIDS is the final stage of HIV infection, and not everyone who has HIV advances to this stage.
+
+question 1: Who is at risk for getting HIV?
+answer 1: Case reports of female-to-female transmission of HIV are rare. The well-documented risk of female-to-male transmission shows that vaginal fluids and menstrual blood may contain the virus and that exposure to these fluids through mucous membranes (in the vagina or mouth) could potentially lead to HIV infection.
+
+question 2: How long can people live with HIV or AIDS?
+answer 2: Things have moved on quite a bit since the advent of antiretroviral therapy. With HIV treatment, people with AIDS (or advanced HIV infection) can live a very long time if they have access to treatment and adhere to it as prescribed.
+
+question 3: Can I get a vaccine to prevent HIV infection or AIDS?
+answer 3: There is no vaccine to prevent HIV infection. Researchers are working todevelop a vaccine. Vaccines in development are being tested to find out if theywork.
+
+question 4: Is there a cure for HIV or AIDS?
+answer 4: No effective cure currently exists for HIV or AIDS. But with proper medical care, HIV can be controlled.
+
+question 5: How many people are living with HIV and AIDS?
+answer 5: An estimated 1.2 million people in the United States were living with HIV at the end of 2013, the most recent year for which this information is available. Of those people, about 13%, or 1 in 8, did not know they were infected.
+
+question 6: What is the status of the HIV/AIDS epidemic in New York State?
+answer 6: I'm still learning, I will have to get back to you on that question.
+
+question 7: Where can I find updated statistics on HIV and AIDS?
+answer 7: There are a number of resources you can use to find this information.The first resource is our guide to ARVs.The guide lists ARVs currently available. It also provides a one page summary on each drug. This includes information such as: generic and brand drug names, brief characteristics and potential side effects of each drug.If you would like information on managing side effects of the different drugs, please follow this link to our guide on HIV and your quality of life.Other resources you can use are:The European Medicines Agency websiteThe site provides information in two formats. The first is patient information in non-technical language and the second is more technical drug product information.The European Medicines Compendium Website.This site provides a concentrated technical summary on each drug. Also know as the SPC [Summary of Product Characteristics], it includes information on how the drug works; how it was studied; side effects; contraindications [when it should not be used]; and why it was approved.The NHS [National Health Service] websiteThe American National Institute for Health websiteThe third and most personal option is to talk to your HIV clinician or pharmacist. This option is a good opportunity to ask direct questions on anything youâre not too clear about.
+
+question 8: How is HIV spread from one person to another?
+answer 8: AIDS is the final stage of HIV. You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 9: Is it easy to get HIV?
+answer 9: It sounds as if you would benefit from some professional counseling about why you are so concerned with getting HIV. With todayâs modern drugs someone with HIV can lead a normal life with a near normal life expectancy so there is really nothing to worry about.HIV is not that easy to catch, especially in the UK where the prevalence is so low and where positive people have access to treatment making them non-infectious.You cannot get HIV from handling a parcel and you cannot get it from a needle that has been lying around for 4 hours.
+
+question 10: Does everyone who is exposed to HIV get infected?
+answer 10: I am not confident on an answer for that question.
+
+question 11: How is HIV spread during injection drug use?
+answer 11: Scientists identified a type of chimpanzee in Central Africa as the source of HIV infection in humans. They believe that the chimpanzee version of the immunodeficiency virus (called simian immunodeficiency virus, or SIV) most likely was transmitted to humans and mutated into HIV when humans hunted these chimpanzees for meat and came into contact with their infected blood. Studies show that HIV may have jumped from apes to humans as far back as the late 1800s. Over decades, the virus slowly spread across Africa and later into other parts of the world. We know that the virus has existed in the United States since at least the mid- to late 1970s.
+
+question 12: Can injecting vitamins, steroids, hormones, or insulin put me at risk for HIV infection?
+answer 12: I'm still learning, I will have to get back to you on that question.
+
+question 13: How is HIV spread during anal sex?
+answer 13: Scientists identified a type of chimpanzee in Central Africa as the source of HIV infection in humans. They believe that the chimpanzee version of the immunodeficiency virus (called simian immunodeficiency virus, or SIV) most likely was transmitted to humans and mutated into HIV when humans hunted these chimpanzees for meat and came into contact with their infected blood. Studies show that HIV may have jumped from apes to humans as far back as the late 1800s. Over decades, the virus slowly spread across Africa and later into other parts of the world. We know that the virus has existed in the United States since at least the mid- to late 1970s.
+
+question 14: How is HIV spread during vaginal sex?
+answer 14: Scientists identified a type of chimpanzee in Central Africa as the source of HIV infection in humans. They believe that the chimpanzee version of the immunodeficiency virus (called simian immunodeficiency virus, or SIV) most likely was transmitted to humans and mutated into HIV when humans hunted these chimpanzees for meat and came into contact with their infected blood. Studies show that HIV may have jumped from apes to humans as far back as the late 1800s. Over decades, the virus slowly spread across Africa and later into other parts of the world. We know that the virus has existed in the United States since at least the mid- to late 1970s.
+
+question 15: How is HIV spread during oral sex?
+answer 15: Scientists identified a type of chimpanzee in Central Africa as the source of HIV infection in humans. They believe that the chimpanzee version of the immunodeficiency virus (called simian immunodeficiency virus, or SIV) most likely was transmitted to humans and mutated into HIV when humans hunted these chimpanzees for meat and came into contact with their infected blood. Studies show that HIV may have jumped from apes to humans as far back as the late 1800s. Over decades, the virus slowly spread across Africa and later into other parts of the world. We know that the virus has existed in the United States since at least the mid- to late 1970s.
+
+question 16: Does having a sexually transmitted disease (STD) affect my risk of getting HIV?
+answer 16: I am not confident on an answer for that question.
+
+question 17: Does sexual contact with many partners increase my risk of     getting HIV?
+answer 17: I'm not sure! I think Google might have a better answer.
+
+question 18: Are women who have sex with women at risk for HIV infection?
+answer 18: Case reports of female-to-female transmission of HIV are rare. The well-documented risk of female-to-male transmission shows that vaginal fluids and menstrual blood may contain the virus and that exposure to these fluids through mucous membranes (in the vagina or mouth) could potentially lead to HIV infection.
+
+question 19: Can a woman who has HIV pass the virus to her baby?
+answer 19: An HIV negative woman and an HIV positive man can conceive naturally.This can be done through limited conception attempts during the most fertile days of your cycle. i.e when you are as ovulating.To make this safer, your partner must have an undetectable viral load for at least 6 months. The risk then become close to zero.Statistically, it is much harder to transmit HIV than to get pregnant.Therefore, limited conception attempts made during ovulation may carry a low risk if your partnerâs viral load is undetectable.One study followed 40 sero-discordant couples. They conceived when the man was on HAART with undetectable viral load for 6 months or longer. At the end of the study, no transmissions had occurred.A low number of conception attempts has a very very low risk if the HIV positive person has an undetectable viral load. You can return to using condoms after the woman becomes pregnant. It is also still recommended that couples use condoms during pregnancy.The PARTNER study reported zero HIV transmissions after 800 couples had sex than 58,000 times without a condom when the positive partner had an undetectable viral load.For more information on HIV and natural conception, please follow this link on HIV and pregnancy and this link on the Swiss Statement.How often should I get tested and how long does it take for the infection to be detectable?For information on HIV testing and the window period [time between exposure and when infection can be picked by an HIV test], please follow this linkWill the baby automatically be HIV positive? As you are HIV negative, the baby will be HIV negative.Will my baby be at risk?Your baby can be at risk if you become HIV positive whilst pregnant and your viral load is very high. Returning to using condoms after you become pregnant might still be a good idea, even when your partners viral load is undetectable.A high viral load is one of the main risk factors for transmission. If viral load is detectable, there is a higher risk of catching HIV during pregnancy.Transmission to the baby can occur at 3 stages, but only if you become HIV positive.However, there are interventions to reduce the risk of transmission to the baby during pregnancy and birth. These include:For more information please follow this link.Is it an ignorant choice?This is not an ignorant choice. Far more sero-different couples have children naturally than from using sperm washing. Luckily treatment now dramatically reduces the risk of transmitting HIV if this process is done carefully.However, it is important that both you and your partner make an informed choice. It is recommended that you discuss your options with your doctor.Should I take medication as a precaution?Sometimes PrEP [Pre exposure Prophylaxis] and PEP [Post Exposure Prophylaxis] are used an additional precaution. This involves taking a single dose of treatment before and after having sex.PrEP is not likely to add much or any protection, because having an undetectable viral load is enough. It might help for psychologically if you are nervous. PrEP is very effective too.More information on PrEP is at this this linkIs my 3 year old at risk and what should I do to keep her safe?Your 3 year old is not at risk as HIV is not transmitted from daily activity.What are safe loads for my partner to have?The risk of transmission is so low when your partner has an undetectable viral load that is it generally thought to be close to zero.Note: This question was updated in September 2016 from an original answer in September 2011.
+
+question 20: Can a person with HIV who is not sick or who has no symptoms pass HIV to someone else?
+answer 20: It is okay for HIV positive people to date anyone â positive or negative.There are no addional risks if you are both positive.Sometimes it means you have a shared understanding about HIV and this can be good.
+
+question 21: Can a person with HIV who has an undetectable viral load pass HIV to someone else?
+answer 21: It is okay for HIV positive people to date anyone â positive or negative.There are no addional risks if you are both positive.Sometimes it means you have a shared understanding about HIV and this can be good.
+
+question 22: Can I get HIV from kissing?
+answer 22: You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 23: Can I get HIV from a human bite?
+answer 23: In theory it is possible. However, it would be very difficult to get HIV this way. The amount of blood that would have to be in contact with your eye would have to be substantial and this blood would need to be from someone with a very high viral load. It is highly unlikely that someone would get HIV this way.
+
+question 24: Can I get HIV from a mosquito bite?
+answer 24: AIDS is the final stage of HIV. You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 25: Can I get HIV from living in the same house as a person with HIV or AIDS?
+answer 25: You cannot get HIV by living int eh same house as someone and sharing toilets, dishes, cutlery etc. and scroll to the bottom of the page where it states âWays you can NOT get HIVâ
+
+question 26: Can HIV be passed through food, water, or the air?
+answer 26: You cannot be infected with HIV this way. For more information about how you donât get HIV please follow this link and go to the bottom of the page
+
+question 27: Can I get HIV from swimming pools or hot tubs?
+answer 27: I am not confident on an answer for that question.
+
+question 28: Can I get HIV from body piercing, ear piercing, or tattoo needles?
+answer 28: You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 29: What is being done to keep the blood supply and other blood products safe from HIV?
+answer 29: The was HIV is treated can vary from country to country and you did not say where you live. This is one of the reasons we ask this when you ask a question.The one test that is used in all countries is called a CD4 count â or CD4 test.This is a blood test that give the doctor a rough idea of how much HIV may have damaged your immune system. It is one of the main tests that is used to decide when to start treatment.Many countries, but not all, also use a viral load test. This blood test measure the level of HIV. See this link for more information on both tests:http://i-base.info/guides/starting/cd4-count-and-viral-loadUnless you have symptoms, your doctor probably decided that getting these results first was more important. This is something that you need to ask your doctor or clinic.It is okay to ask anything you want. After finding out you are HIV positive you probably have many questions. Building up your knowledge is a good idea. If you want to read more about HIV and treatment before you next see your doctor, this online guide may be useful:http://i-base.info/introduction-to-combination-therapy-2014
+
+question 30: Are health care workers or people in other occupations at risk for HIV?
+answer 30: Health care workers and others who are exposed to potentially infectious bloodand/or other body fluids on the job are at risk. To reduce this risk: health careworkers follow strict safety guidelines and use Universal Precautions to preventspreading disease. Universal Precautions include always wearing latex gloveswhen taking blood samples or giving shots and washing hands before and afterall procedures.While these guidelines have reduced the frequency of on-the-job exposures(occupational exposure) to HIV: needle-sticks and other direct contact withblood and body fluids sometimes occur. The New York State Department ofHealth recommends that health care workers who experience significant riskof exposure to HIV take medicines to reduce the risk of HIV infection. This iscalled postexposure prophylaxis (PEP) ( 58).
+
+question 31: Can I get HIV from contact with my doctor, dentist, or other health care professional?
+answer 31: I'm still learning, I will have to get back to you on that question.
+
+question 32: Is there a test for HIV infection?
+answer 32: I'm not sure! I think Google might have a better answer.
+
+question 33: Who should get tested for HIV?
+answer 33: The CDC recommends that everyone between the ages of 13 and 64 get tested for HIV at least once as part of routine health care. About 1 in 8 people in the United States who have HIV donât know they have it.
+
+question 34: How do I get tested for HIV?
+answer 34: I am not confident on an answer for that question.
+
+question 35: What is the difference between anonymous and confidential testing?
+answer 35: I'm not sure! I think Google might have a better answer.
+
+question 36: What is meant by informed consent and capacity to consent for an HIV test?
+answer 36: I'm not sure on that. I would be happy to answer any questions you have about HIV/AIDS though.
+
+question 37: Should I wait for symptoms to appear before getting tested?
+answer 37: I'm still learning, I will have to get back to you on that question.
+
+question 38: How soon after exposure can HIV infection be detected?
+answer 38: No HIV test can detect HIV immediately after infection. If you think you’ve been exposed to HIV, talk to your health care provider as soon as possible. The time between when a person gets HIV and when a test can accurately detect it is called the window period. The window period varies from person to person and also depends upon the type of HIV test. Ask your health care provider about the window period for the test you’re taking. If you’re using a home test, you can get that information from the materials included in the test’s package. If you get an HIV test within 3 months after a potential HIV exposure and the result is negative, get tested again in 3 more months to be sure. If you learned you were HIV-negative the last time you were tested, you can only be sure you’re still negative if you haven’t had a potential HIV exposure since your last test. If you’re sexually active, continue to take actions to prevent HIV, like using condoms the right way every time you have sex and taking medicine to prevent HIV if you’re at high risk.
+
+question 39: Is HIV testing ever mandatory?
+answer 39: I am not confident on an answer for that question.
+
+question 40: Why is it recommended that all pregnant women have an HIV test?
+answer 40: Guidelines recommend to use co-trimoxazole during pregnancy, just as they would for a non-pregnant HIV-positive woman. The main contraindication is if there is a previous history of allergic reactions to this drug (or class of drug).This means that cotrimoxazole is recommended during pregnancy throughout the pregnancy, if the womanâs CD4 count is under 200 cells/mm3.Some doctors are cautious about using cotrimoxazole during the first trimester in pregnancy, but if the mothers CD4 count indicated that she needed this for her own health, then the benefits are likely to outweigh any theoretical risks.
+
+question 41: Why are all newborns in New York State tested for HIV?
+answer 41: I'm still learning, I will have to get back to you on that question.
+
+question 42: Is there a 100% effective way to prevent sexual transmission of HIV?
+answer 42: The only 100% effective way to prevent sexual transmission of HIV is through abstinence â avoiding all vaginal: anal: and oral sex. Using a latex male condomor a female condom can greatly reduce: but not entirely eliminate: the risk of HIVtransmission (s 44-46). However: abstinence is the only method tocompletely eliminate the possibility of sexual transmission of HIV.
+
+question 43: Does using condoms reduce my risk of HIV infection?
+answer 43: Please do NOT use Lamzid in this way.Firstly, there is no evidence that it will protect you from catching HIV.Secondly, there are risks from you taking these meds. If you have hepatitis B or catch hepatitis B taking the 3TC in Lamzid could cause liver problems if you are stopping and starting the drug. If you were unlucky enough to catch HIV, your use of Lamzid is likely to make you resistant to 3TC which could then affect both you and your partners future treatment options (if you passed that resistance back to your partner).Is your partner on treatment? If and when this happens, this reduce the risk of transmitting HIV.Using a condom is still the most effective way to do this though.
+
+question 44: What is the correct way to use a condom?
+answer 44: I am not confident on an answer for that question.
+
+question 45: Do male and female condoms provide the same protection        against HIV?
+answer 45: Can I start off by asking if your girlfriend is taking treatment for herpes? This is because herpes infections are treated using a drug called acyclovir. Acyclovir can also be be taken on a regular basis to prevent recurrent (repeat) attacks of herpes. In the UK aciclovir is recommended on a regular basis if someone has two or more herpes attacks in a year.In response to your question, condoms generally protect very well against nearly all STIs. They are, however, not so good at protecting against HPV ( a virus linked to warts) or herpes. This is because sometimes parts of the skin are affected that are not covered by the condom.Common symptoms for genital herpes include blisters around and within the genital area. Therefore, protection against herpes by condoms will depend on the area where the blister/s are. It may be that your girlfriendâs ulcers appear on areas where you are likely to have skin to skin contact during sex. In which you may be better off abstaining from sex until the blisters are fully healed. As this will limit the risk of transmission.Other methods of protection you could use to reduce the risk of transmission include your girlfriend using a female condom. A female condom can provide greater protection than the male condom as it covers the labia. Using dental dams for oral sex can also can also limit the transmission of herpes from her genital area to your mouth.Best wishes.
+
+question 46: Do birth control methods other than condoms reduce the risk of HIV infection?
+answer 46: I'm still learning, I will have to get back to you on that question.
+
+question 47: Does spermicide provide additional protection against HIV?
+answer 47: Can I start off by asking if your girlfriend is taking treatment for herpes? This is because herpes infections are treated using a drug called acyclovir. Acyclovir can also be be taken on a regular basis to prevent recurrent (repeat) attacks of herpes. In the UK aciclovir is recommended on a regular basis if someone has two or more herpes attacks in a year.In response to your question, condoms generally protect very well against nearly all STIs. They are, however, not so good at protecting against HPV ( a virus linked to warts) or herpes. This is because sometimes parts of the skin are affected that are not covered by the condom.Common symptoms for genital herpes include blisters around and within the genital area. Therefore, protection against herpes by condoms will depend on the area where the blister/s are. It may be that your girlfriendâs ulcers appear on areas where you are likely to have skin to skin contact during sex. In which you may be better off abstaining from sex until the blisters are fully healed. As this will limit the risk of transmission.Other methods of protection you could use to reduce the risk of transmission include your girlfriend using a female condom. A female condom can provide greater protection than the male condom as it covers the labia. Using dental dams for oral sex can also can also limit the transmission of herpes from her genital area to your mouth.Best wishes.
+
+question 48: How can I prevent HIV transmission during oral sex?
+answer 48: Although oral sex is less risky than anal or vaginal sex: it is possible to get HIV byperforming oral sex on an HIV-infected partner. HIV transmission could potentiallyoccur if blood: pre-ejaculation fluid: semen: or vaginal fluids enter open soresor cuts in or around the mouth: such as those caused by canker sores or blisters:vigorous teeth brushing or flossing: or some form of trauma. Using a latex barrier:like a condom or dental dam: reduces your risk of HIV infection ( 49).
+
+question 49: Does douching after sex reduce the risk of HIV infection?
+answer 49: Washing after sex does NOT reduce the risk for HIV, and two studies have shown it can INCREASE the risk.A study in AIDS is now available in full online relating to the risk in women.Vaginal washing and increased risk of HIV-1 acquisition among African women: a 10-year prospective study.A study in uncircumcised men was presented at the IAS meeting in Sydney last month.Male post-coital penile cleansing and the risk of HIV-acquisition in rural Rakai district, UgandaHowever, a study of washing in circumcised men did find a benefit.Independent association of hygiene, socioeconomic status, and circumcision with reduced risk of HIV infection among Kenyan menFrom the details you give here, your are not at risk of HIV as you used a condom.
+
+question 50: Do sex partners who both have HIV need to use condoms?
+answer 50: When two HIV positive people are in a monogamous relationship the risk in having unprotected sex is related to reinfection.The risk of reinfection is likely to be as low, or lower, than the original risk of HIV infection. Because you are on treatment your viral load should be lower, reducing the risk even further for your wife. The main caution would be if you were to become resistant to any of your HIV drugs. This can happen if you have problems with adherence- missing doses of your medication regularly. It would then be possible to transmit the resistant virus to your wife, meaning her treatment options would be limited.There is more information about the risks of reinfection in our guide to HIV testing and risks of sexual transmission
+
+question 51: How can a pregnant woman with HIV prevent transmission of the virus to her infant?
+answer 51: An HIV negative woman and an HIV positive man can conceive naturally.This can be done through limited conception attempts during the most fertile days of your cycle. i.e when you are as ovulating.To make this safer, your partner must have an undetectable viral load for at least 6 months. The risk then become close to zero.Statistically, it is much harder to transmit HIV than to get pregnant.Therefore, limited conception attempts made during ovulation may carry a low risk if your partnerâs viral load is undetectable.One study followed 40 sero-discordant couples. They conceived when the man was on HAART with undetectable viral load for 6 months or longer. At the end of the study, no transmissions had occurred.A low number of conception attempts has a very very low risk if the HIV positive person has an undetectable viral load. You can return to using condoms after the woman becomes pregnant. It is also still recommended that couples use condoms during pregnancy.The PARTNER study reported zero HIV transmissions after 800 couples had sex than 58,000 times without a condom when the positive partner had an undetectable viral load.For more information on HIV and natural conception, please follow this link on HIV and pregnancy and this link on the Swiss Statement.How often should I get tested and how long does it take for the infection to be detectable?For information on HIV testing and the window period [time between exposure and when infection can be picked by an HIV test], please follow this linkWill the baby automatically be HIV positive? As you are HIV negative, the baby will be HIV negative.Will my baby be at risk?Your baby can be at risk if you become HIV positive whilst pregnant and your viral load is very high. Returning to using condoms after you become pregnant might still be a good idea, even when your partners viral load is undetectable.A high viral load is one of the main risk factors for transmission. If viral load is detectable, there is a higher risk of catching HIV during pregnancy.Transmission to the baby can occur at 3 stages, but only if you become HIV positive.However, there are interventions to reduce the risk of transmission to the baby during pregnancy and birth. These include:For more information please follow this link.Is it an ignorant choice?This is not an ignorant choice. Far more sero-different couples have children naturally than from using sperm washing. Luckily treatment now dramatically reduces the risk of transmitting HIV if this process is done carefully.However, it is important that both you and your partner make an informed choice. It is recommended that you discuss your options with your doctor.Should I take medication as a precaution?Sometimes PrEP [Pre exposure Prophylaxis] and PEP [Post Exposure Prophylaxis] are used an additional precaution. This involves taking a single dose of treatment before and after having sex.PrEP is not likely to add much or any protection, because having an undetectable viral load is enough. It might help for psychologically if you are nervous. PrEP is very effective too.More information on PrEP is at this this linkIs my 3 year old at risk and what should I do to keep her safe?Your 3 year old is not at risk as HIV is not transmitted from daily activity.What are safe loads for my partner to have?The risk of transmission is so low when your partner has an undetectable viral load that is it generally thought to be close to zero.Note: This question was updated in September 2016 from an original answer in September 2011.
+
+question 52: How can people who inject drugs reduce their risk of HIV infection?
+answer 52: I am not confident on an answer for that question.
+
+question 53: How should needles and syringes be cleaned?
+answer 53: I'm not sure! I think Google might have a better answer.
+
+question 54: Is it legal to possess needles and syringes without a prescription?
+answer 54: I'm not sure on that. I would be happy to answer any questions you have about HIV/AIDS though.
+
+question 55: How do I dispose of needles and syringes?
+answer 55: I'm still learning, I will have to get back to you on that question.
+
+question 56: Does using alcohol or other non-injected drugs increase my risk of HIV infection?
+answer 56: In these ambiguous circumstances it is easier to just have an HIV test in a couple of months time. Your risk sounds very low, even if your parter was HIV positive.If he was on HIV treatment then any risk is likely to be even lower – though I think it is very difficult to diagnose any HIV-related symptoms and you may have been mistaken in this,I’m not sure what a ‘fissured tongue’ is, but you may want to seek medical advice for this. If it means that you have cuts in your mouth then it would be safer not to have oral sex until they are healed, as you could catch HIV this way.
+
+question 57: How can health care workers and others at risk of on-the-job exposure reduce the risk of HIV infection?
+answer 57: Health care workers and others who are exposed to potentially infectious bloodand/or other body fluids on the job are at risk. To reduce this risk: health careworkers follow strict safety guidelines and use Universal Precautions to preventspreading disease. Universal Precautions include always wearing latex gloveswhen taking blood samples or giving shots and washing hands before and afterall procedures.While these guidelines have reduced the frequency of on-the-job exposures(occupational exposure) to HIV: needle-sticks and other direct contact withblood and body fluids sometimes occur. The New York State Department ofHealth recommends that health care workers who experience significant riskof exposure to HIV take medicines to reduce the risk of HIV infection. This iscalled postexposure prophylaxis (PEP) ( 58).
+
+question 58: If a person is exposed to HIV outside of the work setting, is there anything he or she can do to prevent infection?
+answer 58: There is no vaccine to prevent HIV infection. Researchers are working todevelop a vaccine. Vaccines in development are being tested to find out if theywork.
+
+question 59: What are the symptoms of HIV infection?
+answer 59: It is impossible to tell if you are HIV positive or if the symptoms you describe are early signs of HIV infection. The only way you can know for sure is if you get a HIV test.For more information on testing and transmission please follow this link to the i-Base factsheet.
+
+question 60: When does a person with HIV infection have AIDS?
+answer 60: When people get HIV and don’t receive treatment, they will typically progress through three stages of disease. Medicine to treat HIV, known as antiretroviral therapy (ART), helps people at all stages of the disease if taken the right way, every day. Treatment can slow or prevent progression from one stage to the next. It can also dramatically reduce the chance of transmitting HIV to someone else. Stage 1: Acute HIV infection , Within 2 to 4 weeks after infection with HIV, people may experience a flu-like illness, which may last for a few weeks. This is the body’s natural response to infection. When people have acute HIV infection, they have a large amount of virus in their blood and are very contagious. But people with acute infection are often unaware that they’re infected because they may not feel sick right away or at all. To know whether someone has acute infection, either a fourth-generation antibody/antigen test or a nucleic acid (NAT) test is necessary. If you think you have been exposed to HIV through sex or drug use and you have flu-like symptoms, seek medical care and ask for a test to diagnose acute infection. Stage 2: Clinical latency (HIV inactivity or dormancy) , This period is sometimes called asymptomatic HIV infection or chronic HIV infection. During this phase, HIV is still active but reproduces at very low levels. People may not have any symptoms or get sick during this time. For people who aren’t taking medicine to treat HIV, this period can last a decade or longer, but some may progress through this phase faster. People who are taking medicine to treat HIV (ART) the right way, every day may be in this stage for several decades. It’s important to remember that people can still transmit HIV to others during this phase, although people who are on ART and stay virally suppressed (having a very low level of virus in their blood) are much less likely to transmit HIV than those who are not virally suppressed. At the end of this phase, a person’s viral load starts to go up and the CD4 cell count begins to go down. As this happens, the person may begin to have symptoms as the virus levels increase in the body, and the person moves into Stage 3. Stage 3: Acquired immunodeficiency syndrome (AIDS) , AIDS is the most severe phase of HIV infection. People with AIDS have such badly damaged immune systems that they get an increasing number of severe illnesses, called opportunistic illnesses. Without treatment, people with AIDS typically survive about 3 years. Common symptoms of AIDS include chills, fever, sweats, swollen lymph glands, weakness, and weight loss. People are diagnosed with AIDS when their CD4 cell count drops below 200 cells/mm or if they develop certain opportunistic illnesses. People with AIDS can have a high viral load and be very infectious.
+
+question 61: Why is it important for people with HIV to get medical care?
+answer 61: You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 62: Do women with HIV need special medical care?
+answer 62: AIDS is the final stage of HIV. You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 63: Should people with HIV tell their doctor, dentist, physician assistant, nurse practitioner, and other health care providers?
+answer 63: Going to a sauna will not cause your infection to progress faster. There is no risk to your health from going to a sauna, it is probably very good for you.
+
+question 64: What are CD4 cell counts and viral load tests?
+answer 64: CD4 cells are a type of blood cell that is part of your immune system. They are a type of white blood cell (lymphocyte). CD4 cells are sometimes called T-helper cells or T-cellsThere are two main types of T-cells.The normal ranges for CD4 and CD8 counts vary depending on the lab and test. On average, the normal CD4 range for an HIV negative person is between 460 and 1600. This is an average. Anywhere in this range is fine.Although generally a higher CD4 is good, an HIV negative person with a normal CD4 count of 1200 is not more healthy than someone whose normal count is 400.A normal CD8 range is from 150 to 1000. This test is not really used so much for monitoring HIV. It is more important to know your CD4 count than your CD8 count.The exact CD4 count is not so important. CD4 counts can vary from day to day and even from hour to hour. So the general CD4 result is more important than the exact number.If you get a CD4 count that is ever unexpectedly high or low, then your CD4% (CD4 percentage) will indicate if this is a real change. This percentage is more stable than the exact CD4 count.The CD4 percentage refers to percentage of total lymphocytes that are CD4 cells. If your test reports CD4% = 34%, that means that 34% of your lymphocytes are CD4 cells.The average normal CD4% for HIV negative adults is about 40%. However, as with CD4 counts and other test, the range for a “normal” result in an HIV negative person is also wide – from about 25% to 65%.The CD4:CD8 ratio is also sometimes used, but less often. This is a measure of how balanced your immune function is. This calculated by dividing the CD4 result by the CD8 result.In HIV negative people, the normal range for the CD4:CD8 ratio is between 0.9 and 1.9. This means that there are about 1 to 2 CD4 cells for every CD8 cell.When not on HIV treatment, just like the CD4 count and CD4%, the CD4:8 ratio drops over time. Eventually, unless you start treatment, there will be more CD8 cells than CD4 cells (i.e. the ratio drops to less than 1.0).Recent studies have suggested that the CD4:8 ratio might be more accurate than the CD4 count at predicting future risk in people whose CD4 count is high (above 350 cells/mm3).Other studies have shown that starting ART soon after HIV infection has a much higher chance of keeping the CD4:CD8 ratio higher than 1.0.
+
+question 65: How is HIV infection treated?
+answer 65: Treatment for HIV is called antiretroviral therapy or ART. If taken the right way, every day, ART can dramatically prolong the lives of many people infected with HIV, keep them healthy, and greatly lower their chance of infecting others.
+
+question 66: What is drug resistance?
+answer 66: I am not confident on an answer for that question.
+
+question 67: When should a person with HIV begin taking HIV medicines?
+answer 67: I'm not sure! I think Google might have a better answer.
+
+question 68: Can a person who is on methadone maintenance take HIV medicines?
+answer 68: I'm not sure on that. I would be happy to answer any questions you have about HIV/AIDS though.
+
+question 69: Are there alternative or complementary treatments for HIV?
+answer 69: I'm still learning, I will have to get back to you on that question.
+
+question 70: What is the connection between HIV and TB?
+answer 70: Acute retroviral syndrome (ARS) is a collection of symptoms which are associated to the primary phase of HIV Infection. Seroconversion is what happens after a person experiences the collections of symptoms. We know symptoms can be caused by other factors including stress and the flu. HIV cannot be diagnosed based on symptoms, only by testing.
+
+question 71: What do people with HIV need to know about hepatitis?
+answer 71: I am not confident on an answer for that question.
+
+question 72: Where can people with HIV get medical care?
+answer 72: You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 73: How can people with HIV and AIDS pay for their medical care?
+answer 73: AIDS is the final stage of HIV. You can get or transmit HIV only through specific activities. Most commonly, people get or transmit HIV through sexual behaviors and needle or syringe use. HIV is not spread easily. Only certain body fluids from a person who has HIV can transmit HIV: blood, semen, pre-cum, rectal fluids, vaginal fluids, and breast milk. These body fluids must come into contact with a mucous membrane or damaged tissue or be directly injected into your bloodstream (by a needle or syringe) for transmission to occur. Mucous membranes are found inside the rectum, vagina, penis, and mouth. HIV is not spread by mosquitoes, water or air, saliva, tears, sweat, shaking hands, hugging, sharing toilets, sharing dishes/drinking glasses, or closed-mouth or âsocialâ/"french" kissing with someone who is HIV-positive.
+
+question 74: Are people with HIV who receive Medicaid required to join a managed care program?
+answer 74: I'm still learning, I will have to get back to you on that question.
+
+question 75: Do prisoners have access to up-to-date HIV treatments?
+answer 75: I'm not sure! I think Google might have a better answer.
+
+question 76: How can I learn about experimental treatments for people with HIV?
+answer 76: I'm not sure on that. I would be happy to answer any questions you have about HIV/AIDS though.
+
+question 77: How should parents talk to their children about HIV and AIDS?
+answer 77: I am not confident on an answer for that question.
+
+question 78: Do children get HIV?
+answer 78: I'm still learning, I will have to get back to you on that question.
+
+question 79: Do health care providers need to know if a child has HIV?
+answer 79: I am not confident on an answer for that question.
+
+question 80: Should a child with HIV get regular childhood immunizations?
+answer 80: I'm still learning, I will have to get back to you on that question.
+
+question 81: Are children in foster care tested for HIV? Who receives the results?
+answer 81: I am not confident on an answer for that question.
+
+question 82: Can a child with HIV infect another child through casual contact, fighting, or contact sports?
+answer 82: Having another sexually transmitted disease (STD) can increase the risk of getting or transmitting HIV. If you have another STD, you’re more likely to get or transmit HIV to others. Some of the most common STDs include gonorrhea, chlamydia, syphilis, trichomoniasis, human papillomavirus (HPV), genital herpes, and hepatitis. The only way to know for sure if you have an STD is to get tested. If you’re sexually active, you and your partners should get tested for STDs (including HIV if you’re HIV-negative) regularly, even if you don’t have symptoms. If you are HIV-negative but have an STD, you are about 3 times as likely to get HIV if you have unprotected sex with someone who has HIV. There are two ways that having an STD can increase the likelihood of getting HIV. If the STD causes irritation of the skin (for example, from syphilis, herpes, or human papillomavirus), breaks or sores may make it easier for HIV to enter the body during sexual contact. Even STDs that cause no breaks or open sores (for example, chlamydia, gonorrhea, trichomoniasis) can increase your risk by causing inflammation that increases the number of cells that can serve as targets for HIV. If you are HIV-positive and also infected with another STD, you are about 3 times as likely as other HIV-infected people to spread HIV through sexual contact. This appears to happen because there is an increased concentration of HIV in the semen and genital fluids of HIV-positive people who also are infected with another STD. For more information about the connection between HIV and other STDs, see <a href="http://www.cdc.gov/std/hiv/STDFact-STD-HIV.htm">STDs and HIV</a>. To get tested for HIV or other STDs, <a href="https://gettested.cdc.gov/">find a testing site</a> near you.
+
+question 83: Who should parents and guardians tell about a child’s HIV infection?
+answer 83: I'm still learning, I will have to get back to you on that question.
+
+question 84: Do adolescents/young adults get HIV?
+answer 84: I'm not sure! I think Google might have a better answer.
+
+question 85: At what age can a person consent to an HIV test?
+answer 85: Infant’s immune systems and CD4 counts are quite different to adults and so when to start treatment can be a little more complicated in young children. The guidelines have changed significantly in the last few years. When to start treatment depends on lots of things such as age, CD4 count and percentage, if they are showing symptoms and their viral load.The guidelines for treating infants in the UK are as follows:1 to <3 years – CD4% <25%, or less than 1000 cells/mm33 to <5 years – CD4 %<20%, or less than 500 cells/mm3Above 5 years – CD4 count less than 350 cells/mm3For more information on infant treatment pleas follow this link to the Children’s HIV Association (CHIVA) guidelines
+
+question 86: If an adolescent gets tested for HIV, will the parents or guardians be told about the test result?
+answer 86: I am not confident on an answer for that question.
+
+question 87: What are the Public Health Law provisions regarding HIV case reporting and partner notification?
+answer 87: I'm not sure! I think Google might have a better answer.
+
+question 88: When the name of a person who tests HIV positive is reported to the New York State Department of Health, is that information shared with other government agencies?
+answer 88: It’s important to share your status with your sex partners. Whether you disclose your status to others is your decision. Partners It’s important to disclose your HIV status to your sex partners even if you’re uncomfortable doing it. Communicating with each other about your HIV status means you can take steps to keep both of you healthy. The more practice you have disclosing your HIV status, the easier it will become. Many resources can help you learn ways to disclose your status to your partners. For tips on how to start the conversation with your partners, check out CDC’s <a href="/actagainstaids/campaigns/starttalking/index.html">Start Talking</a> campaign. If you’re nervous about disclosing your test result, or you have been threatened or injured by your partner, you can ask your doctor or the local health department to tell them that they might have been exposed to HIV. This is called partner notification services. Health departments do not reveal your name to your partners. They will only tell your partners that they have been exposed to HIV and should get tested. Many states have <a href="/hiv/policies/law/states/exposure.html">laws</a> that require you to tell your sexual partners if you’re HIV-positive before you have sex (anal, vaginal, or oral) or tell your drug-using partners before you share drugs or needles to inject drugs. In some states, you can be charged with a crime if you don’t tell your partner your HIV status, even if your partner doesn’t become infected. Family and friends<br> In most cases, your family and friends will not know your test results or HIV status unless you tell them yourself. While telling your family that you have HIV may seem hard, you should know that disclosure actually has many benefits—studies have shown that people who disclose their HIV status respond better to treatment than those who don’t.</br>, If you are under 18, however, some states allow your health care provider to tell your parent(s) that you received services for HIV if they think doing so is in your best interest. For more information, see the Guttmacher Institute’s <a href="http://www.guttmacher.org/statecenter/spibs/spib_MASS.pdf">State Policies in Brief: Minors’ Access to STI Services</a>. Employers<br> In most cases, your employer will not know your HIV status unless you tell them. But your employer does have a right to ask if you have any health conditions that would affect your ability to do your job or pose a serious risk to others. (An example might be a health care professional, like a surgeon, who does procedures where there is a risk of blood or other body fluids being exchanged.)</br>, If you have health insurance through your employer, the insurance company cannot legally tell your employer that you have HIV. But it is possible that your employer could find out if the insurance company provides detailed information to your employer about the benefits it pays or the costs of insurance. All people with HIV are covered under the Americans with Disabilities Act. This means that your employer cannot discriminate against you because of your HIV status as long as you can do your job. To learn more, see the <a href="http://www.ada.gov/aids/">Department of Justice’s website</a>. It may help you to hear stories about how others are living with HIV and how they’ve shared their status with partners, family, and friends. Visit our websites for <a href="/actagainstaids/campaigns/lsht/stories.html">Let’s Stop HIV Together</a> and <a href="/actagainstaids/campaigns/hivtreatmentworks/resources/videos.html">HIV Treatment Works</a>.
+
+question 89: How are partners of people who test HIV positive notified?
+answer 89: I'm still learning, I will have to get back to you on that question.
+
+question 90: Are people who test HIV positive required to tell their doctor or counselor the names of their partners?
+answer 90: Going to a sauna will not cause your infection to progress faster. There is no risk to your health from going to a sauna, it is probably very good for you.
+
+question 91: Can doctors notify the partners of a patient with HIV without the patient’s permission?
+answer 91: The best point to start is your treatment center. Ask your doctor or a nurse if there is a patient group at your centre. If there is no patient group at your clinic, ask to be directed to a local support group in your area.You can also call Terrence Higgins Trust (THT) Direct â 0845 1221 200 â who may know of other support groups.Lastly, if you have a question related to HIV treatment, please do give us a call (0808 800 6013). Just speaking with someone else who has been HIV-positive for a while can make a big difference. The phoneline workers at i-Base are all HIV-positive.Best of luck.
+
+question 92: What happens if a person who tests HIV positive thinks that a partner will react violently if notified?
+answer 92: I am not confident on an answer for that question.
+
+question 93: Are there laws in New York State that protect the confidentiality of people with HIV and AIDS?
+answer 93: I'm not sure! I think Google might have a better answer.
+
+question 94: Will testing positive for HIV affect an immigrant’s ability to stay in the United States?
+answer 94: An estimated 1.2 million people in the United States were living with HIV at the end of 2013, the most recent year for which this information is available. Of those people, about 13%, or 1 in 8, did not know they were infected.
+
+question 95: Can an employer require that a job applicant be tested for HIV?
+answer 95: I'm still learning, I will have to get back to you on that question.
+
+question 96: Can job activities be limited or changed, or can a person be fired, because he or she has HIV or AIDS?
+answer 96: I am a computer, but I have lots of human colleagues who helped make me so smart.
+
+question 97: Can hospital employees or emergency medical workers refuse to care for a person with HIV infection or AIDS?
+answer 97: I am not confident on an answer for that question.
+
+question 98: Can people with HIV infection or AIDS be denied health, disability,  or life insurance?
+answer 98: There are insurance companies which deal specifically with HIV positive people. One such company called ‘It’s so easy’ who has previously been providing travel insurance specifically for HIV positive people is now providing life assurance as well. To contact them you can go to their website at http://www.hivlifeassurance.com/ or call 0845 222 2226.Mortgages are available based on your credit history, job and income not based on your health status. Mortgage brokers will not ask about your health status and being HIV positive should not be an issue when applying for a mortgage.For any further information please feel free to contact us again either via the website or on the phoneline (Mon-Wed 12-4pm)
+
+question 99: Do confidential HIV test results have to be included in a person’s     individual medical record?
+answer 99: If someone has a condition which leaves their immune system weakened then it could mean that antibody-only tests do not work as well. In that case a PCR test or a fourth generation antigen-antibody test should be done as these tests look for the virus itself.For more information about different tests please follow this link
+
