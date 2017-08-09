@@ -19,12 +19,12 @@ def processIncoming(message):
     try:
         r = requests.post(npc_server, data=data)
     except ConnectionError:
-        return 'I\'m away from keyboard, will come back in a moment, your message {}'.format(message_text)
+        return 'I\'m away from keyboard, will come back in a moment, your message {}'.format(message)
 
     if r.status_code != requests.codes.ok:
         return 'I\'m away from keyboard, will come back in a moment'
     if r.text == '':
-        return 'I don\'t understand your question: {}, try a different one?'.format(message_text)
+        return 'I don\'t understand your question: {}, try a different one?'.format(message)
     return r.text
 
 
@@ -53,7 +53,7 @@ def readBatchMessages(path):
 
 # Allows running with simple `python <filename> <port>`
 if __name__ == '__main__':
-    qs = readBatchMessages('/Users/panda/Downloads/nyQ100')
+    qs = readBatchMessages('nyQ100.test.txt')
     results = map(lambda q: processIncoming(q), qs)
     for i, (q, r) in enumerate(zip(qs, results)):
         print 'question {}: {}'.format(i, q)
