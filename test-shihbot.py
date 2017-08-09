@@ -8,7 +8,6 @@ import textwrap
 import time
 import random
 
-# read conf
 npc_server = 'http://127.0.0.1:10000/SHIHbot/'
 
 def processIncoming(message):
